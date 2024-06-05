@@ -1,0 +1,5 @@
+MinIO
+
+bucket: test-app-data
+user: app-user
+senha: app-user
